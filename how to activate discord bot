@@ -1,0 +1,23 @@
+how to activate discord bot
+create your account first
+look for hello express
+Look for hello express which has a blue and red face
+you press View resource
+you press Remix to edit which is at the top right of the screen
+remove Views/
+you to env
+change secret to bot
+copy your bot client id to Variable Value
+you change server.js to bot.js
+you guys download this file
+https://www.mediafire.com/file/imt4c3ji8jsa6rf/tutorial_bot_discord.txt/file
+and follow the instructions there before deleting all existing posts before you copy and paste files that don't exist
+you go to package.json and press add package
+write discord.js and press the top one
+you press tools
+choose custom domains
+and press <
+you press logs
+and restart your bot, all you have to do is press the space bar at the }
+and done
+your bot will be online
