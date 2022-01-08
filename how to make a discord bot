@@ -1,0 +1,20 @@
+go to discord.com/Developers/applications
+press New application
+create your bot name and press create
+you press the bot at the bottom left of the screen
+you press add bot
+and press yes, do it
+you go to https://discordapi.com/permissions.html#1099511627775
+you tick everything there
+you scroll down
+and go again to https://discord.com/developers/applications
+you press oAuth2
+and you copy the client id
+you go back to https://discordapi.com/permissions.html#1099511627775
+and paste the client id that you copied earlier
+after that you press the link under your client id
+choose your server
+scroll down and press Authorize
+verify that you are human
+and done
+The bot that you create will go directly to your server
